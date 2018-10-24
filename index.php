@@ -3,7 +3,9 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World</p>' gethostname(); ?> 
- 
+ <?php echo '<p>Hello World</p>'  ?> 
+
+ <?php echo gethostname(); ?>
+   
  </body>
 </html>
